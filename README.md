@@ -138,7 +138,7 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
 
 ---
 ## Contato
-**Alexandre**  
+**Alexandre Mitsuru Nikaitow**  
 📧 alemiti@gmail.com
 
 <div align="center">

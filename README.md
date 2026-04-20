@@ -137,6 +137,9 @@ Contribuições são bem-vindas! Sinta-se livre para:
 Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informações.
 
 ---
+## Contato
+**Alexandre**  
+📧 alemiti@gmail.com
 
 <div align="center">
   Feito para a comunidade de dados 🇧🇷 &nbsp;•&nbsp; Bons estudos! 🚀
